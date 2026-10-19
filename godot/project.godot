@@ -1,0 +1,37 @@
+; Engine configuration file.
+; Godot 4.4+
+
+config_version=5
+
+[application]
+
+config/name="Archivys"
+config/version="0.1.0"
+run/main_scene="res://cenas/principal.tscn"
+config/features=PackedStringArray("4.4", "Mobile")
+config/icon="res://icon.png"
+
+[autoload]
+Musica="*res://scripts/autoload/musica.gd"
+Captura="*res://scripts/autoload/captura.gd"
+
+Jogo="*res://scripts/autoload/jogo.gd"
+Relogio="*res://scripts/autoload/relogio.gd"
+EfeitoClique="*res://ui/efeito_clique.gd"
+Salvar="*res://scripts/autoload/salvar.gd"
+
+[display]
+
+window/size/viewport_width=720
+window/size/viewport_height=1280
+window/size/window_width_override=405
+window/size/window_height_override=720
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+window/handheld/orientation=1
+
+[rendering]
+
+renderer/rendering_method="mobile"
+textures/canvas_textures/default_texture_filter=0
+textures/vram_compression/import_etc2_astc=true

@@ -1,0 +1,11 @@
+godot/.godot/
+godot/export/
+*.apk
+*.aab
+*.keystore
+*.import.tmp
+__pycache__/
+arte/conceito/*.webp
+arte/ui/_*.mp4
+docs/*travellers_rest*.md
+*.idsig

@@ -1,0 +1,17 @@
+[remap]
+
+importer="font_data_bmfont"
+type="FontFile"
+uid="uid://cnkgj1pxo2oqi"
+path="res://.godot/imported/tecnica_4x_lisa.fnt-c6db30570e5ad35e7001ab3adc7d68a6.fontdata"
+
+[deps]
+
+source_file="res://assets/fontes/tecnica_4x_lisa.fnt"
+dest_files=["res://.godot/imported/tecnica_4x_lisa.fnt-c6db30570e5ad35e7001ab3adc7d68a6.fontdata"]
+
+[params]
+
+fallbacks=[]
+compress=true
+scaling_mode=2

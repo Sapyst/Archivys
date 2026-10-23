@@ -23,8 +23,9 @@ from the realm and grow your guild from a dusty hole into a grand hall.
 - `docs/` — design decisions, balancing and lore.
 
 ## License
-- **Code:** MIT (see `LICENSE`).
-- **Art, lore and texts** (except the font below): CC BY 4.0 — free to use, share and adapt with credit.
+- **Code:** GPL-3.0-or-later (see `LICENSE`).
+- **Art, lore and texts** (except the font below): CC BY-SA 4.0 — free to use, share and adapt with credit, sharing
+  adaptations under the same license. (Published before this change as CC BY 4.0, which still applies to those copies.)
 - **Font "Snide Asides"** by caffinate (CC BY 3.0); the PT accented version was extended for this project. Do not resell the font.
 
 Made with ❤ by Sapyst and Claude.
